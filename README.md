@@ -1,4 +1,12 @@
 ### Hi there 👋
+##this is Tarik Teshome from Ethiopia
+- 🌴 I'm currently a student at Bahir dar university studying software engineering
+-  I enjoy coding and i do it for fun 
+-  I like solving problems with algorithms 
+-  I have woked on MERN stack for more than a year
+-  I am currently working on flutter 
+-  I also have an AI background. I interned at Ethipian Artificial Intelligence Institute which I worked on a couple of machine learing models.
+
 
 <!--
 **tarik350/tarik350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
