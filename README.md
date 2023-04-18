@@ -8,11 +8,12 @@
 <p align="center"><img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"  /></p>
 
 ### 👨‍💻 &nbsp;About Me :
+- 📱 I'm currently working as a mobile app developer at geezbyte
 - 🌴 I'm currently a student at Bahir Dar university studying software engineering.
 - 😃 I enjoy coding in general. 
 - 𝌣 I like solving problems with algorithms. 
 - 💻 I have woked on MERN stack for more than a year.
-- 💻 I am currently learning and working on flutter. 
+- 💻 I am currently working on flutter. 
 - 🤖 I also have an AI background. I worked on a few machine learning models during my internship at the Ethiopian  Artificial Intelligence Institute.
 
 <div>
