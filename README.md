@@ -8,13 +8,13 @@
 <p align="center"><img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"  /></p>
 
 ### 👨‍💻 &nbsp;About Me :
+- 💻 I have woked on MERN stack for more two years.
+- 💻 I have worked with flutter for more than a year.
 - 📱 I'm currently working as a mobile app developer at geezbyte
-- 🌴 I'm currently a student at Bahir Dar university studying software engineering.
+- 🌴 Bachlor's of scince degree with software engingeering from Bahir Dar university.
 - 😃 I enjoy coding in general. 
 - 𝌣 I like solving problems with algorithms. 
-- 💻 I have woked on MERN stack for more than a year.
-- 💻 I am currently working on flutter. 
-- 🤖 I also have an AI background. I worked on a few machine learning models during my internship at the Ethiopian  Artificial Intelligence Institute.
+- 🤖 an intern at Ethiopian Artificial Intelligence institute.worked on multiple models and took multiple Machine learning trainging.
 
 <div>
 <span >
@@ -22,6 +22,10 @@
 </span>
   <span >
 <a href="https://twitter.com/tarik_teshome"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a>
+</span>
+  </span>
+  <span >
+<a href="https://tarikdev.tech"><img src="https://img.freepik.com/premium-vector/blue-square-with-globe-icon-it_876006-15.jpg"></a>
 </span>
   </div>
 
