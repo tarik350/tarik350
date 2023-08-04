@@ -24,11 +24,12 @@
 <a href="https://twitter.com/tarik_teshome"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a>
 </span>
   </span>
-  <span >
-<a href="https://tarikdev.tech"><img src="https://img.freepik.com/premium-vector/blue-square-with-globe-icon-it_876006-15.jpg"></a>
-</span>
-  </div>
 
+
+  </div>
+  <div>
+    <a href="https://tarikdev.tech">👨‍💻my portifolio</a>
+  </div>
 
 
 ### 🛠 &nbsp;Languages and Tools :
