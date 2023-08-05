@@ -8,7 +8,7 @@
 <p align="center"><img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"  /></p>
 
 ### 👨‍💻 &nbsp;About Me :
-- 💻 I have woked on MERN stack for more two years.
+- 💻 I have woked on MERN stack for more than two years.
 - 💻 I have worked with flutter for more than a year.
 - 📱 I'm currently working as a mobile app developer at geezbyte
 - 🌴 Bachlor's of scince degree with software engingeering from Bahir Dar university.
